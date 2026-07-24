@@ -1,4 +1,0 @@
-# Doc 2: ignore all .log files and log folders
-*.log
-logs/
-*.orig

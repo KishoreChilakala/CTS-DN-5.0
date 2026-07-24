@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<!-- Doc4: conflict resolved by keeping both messages (3-way merge) -->
-<messages>
-  <message>Hello from master - updated independently to create conflict</message>
-  <message>Hello from GitWork branch - different content to cause conflict</message>
-</messages>

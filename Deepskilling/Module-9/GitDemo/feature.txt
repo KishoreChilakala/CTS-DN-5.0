@@ -1,2 +1,0 @@
-This file was added in GitNewBranch.
-Demonstrates branching: new work happens in isolation from master.

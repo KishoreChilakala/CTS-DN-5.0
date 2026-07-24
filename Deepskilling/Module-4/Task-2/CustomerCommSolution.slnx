@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="CustomerCommLib.Tests/CustomerCommLib.Tests.csproj" />
-  <Project Path="CustomerCommLib/CustomerCommLib.csproj" />
-</Solution>
